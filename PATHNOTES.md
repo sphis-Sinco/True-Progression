@@ -1,4 +1,12 @@
 # v0.0.2 - 1/12/2025
+## Fixed
+- v0.0.1 changelog
+## Changed
+- Iron Ore Iron bits Drop Amount (depending on difficulty)
+    - Hard Difficulty: 1 per block
+    - Normal Difficulty: 2 per block
+    - Easy Difficulty: 4 per block
+    - Peaceful Difficulty(?): 4 per block
 
 # v0.0.1 - 1/11/2025
 ## Added
@@ -28,3 +36,4 @@
 - Iron Axe Recipe
 - Iron Hoe Recipe
 - Iron Shovel Recipe
+- Iron Ore Block Drop

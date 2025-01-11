@@ -8,6 +8,9 @@
     - Easy Difficulty: 4 per block
     - Peaceful Difficulty(?): 4 per block
 - Mod Website URL (its now the Gamebanana page)
+- Golden Sword Recipe
+- Golden Pickaxe Recipe
+- Golden Axe Recipe
 ## Added
 - PR_BR (Brazillian Portuguese) Localization
 

@@ -7,6 +7,8 @@
     - Normal Difficulty: 2 per block
     - Easy Difficulty: 4 per block
     - Peaceful Difficulty(?): 4 per block
+## Added
+- PR_BR (Brazillian Portuguese) Localization
 
 # v0.0.1 - 1/11/2025
 ## Added

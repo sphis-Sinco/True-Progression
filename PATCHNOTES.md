@@ -1,6 +1,7 @@
-# v0.0.2 - 1/12/2025
+# v0.0.2 (The Golden Charge Update) - 1/12/2025
 ## Fixed
 - v0.0.1 changelog
+- Patchnotes filename
 ## Changed
 - Iron Ore Iron bits Drop Amount (depending on difficulty)
     - Hard Difficulty: 1 per block

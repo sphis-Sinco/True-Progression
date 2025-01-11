@@ -14,6 +14,13 @@
 - Golden Axe Recipe
 ## Added
 - PR_BR (Brazillian Portuguese) Localization
+- Powered Golden Tool Tier
+    - Golden Tools with Higher durability (* 4) and Attack speed (+ 1)
+    - Powered Golden Sword Recipe and Item
+    - Powered Golden Pickaxe Recipe and Item
+    - Powered Golden Axe Recipe and Item
+    - Powered Golden Hoe Recipe and Item
+    - Powered Golden Shovel Recipe and Item
 
 # v0.0.1 - 1/11/2025
 ## Added

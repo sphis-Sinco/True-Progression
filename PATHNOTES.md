@@ -7,6 +7,7 @@
     - Normal Difficulty: 2 per block
     - Easy Difficulty: 4 per block
     - Peaceful Difficulty(?): 4 per block
+- Mod Website URL (its now the Gamebanana page)
 ## Added
 - PR_BR (Brazillian Portuguese) Localization
 

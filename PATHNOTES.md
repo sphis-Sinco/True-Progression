@@ -1,4 +1,4 @@
-# v0.1 - 1/11/2025
+# v0.0.1 - 1/11/2025
 ## Added
 - Thick Stick
     - Thick Stick Recipe

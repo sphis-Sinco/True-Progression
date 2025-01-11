@@ -1,4 +1,4 @@
-# v0.0.2 (The Golden Charge Update) - 1/12/2025
+# v0.0.2 (The Golden Charge Drop) - 1/11/2025
 ## Fixed
 - v0.0.1 changelog
 - Patchnotes filename
@@ -15,7 +15,7 @@
 ## Added
 - PR_BR (Brazillian Portuguese) Localization
 - Powered Golden Tool Tier
-    - Golden Tools with Higher durability (* 4) and Attack speed (+ 1)
+    - Golden Tools with Higher durability (128) and Attack speed (2)
     - Powered Golden Sword Recipe and Item
     - Powered Golden Pickaxe Recipe and Item
     - Powered Golden Axe Recipe and Item

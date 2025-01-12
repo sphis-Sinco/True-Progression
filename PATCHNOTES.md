@@ -1,3 +1,8 @@
+# v0.0.4 - 1/12/2024
+## Added
+- Copper Trap Block PR_BR Localization
+- Copper Trap Death Messages PR_BR Localization
+
 # v0.0.3 - 1/12/2025
 ## Removed
 - Unused Textures

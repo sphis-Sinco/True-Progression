@@ -3,6 +3,11 @@
 - Unused Textures
 ## Added
 - Copper Trap
+    - Hurts any entity on it
+    - Custom Death Messages
+        - <player> was Caught in a Copper Trap
+        - <player> was Caught in a Copper Trap by <attacker> using <item>
+        - <player> was Caught in a Copper Trap whilst trying to escape <attacker>
 
 # v0.0.2 (The Golden Charge Drop) - 1/11/2025
 ## Fixed

@@ -1,6 +1,8 @@
 # v0.0.3 - 1/12/2025
 ## Removed
 - Unused Textures
+## Added
+- Copper Trap
 
 # v0.0.2 (The Golden Charge Drop) - 1/11/2025
 ## Fixed

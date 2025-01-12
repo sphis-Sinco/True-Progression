@@ -2,6 +2,8 @@
 ## Added
 - Copper Trap Block PR_BR Localization
 - Copper Trap Death Messages PR_BR Localization
+## Changed
+- `death.attack.copper_trap_damage.item` to "player was slain by attacker using item whilst caught in a Copper Trap" (Localization follows this)
 
 # v0.0.3 - 1/12/2025
 ## Removed

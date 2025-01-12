@@ -5,9 +5,9 @@
 - Copper Trap
     - Hurts any entity on it
     - Custom Death Messages
-        - <player> was Caught in a Copper Trap
-        - <player> was Caught in a Copper Trap by <attacker> using <item>
-        - <player> was Caught in a Copper Trap whilst trying to escape <attacker>
+        - player was Caught in a Copper Trap
+        - player was Caught in a Copper Trap by attacker using item
+        - player was Caught in a Copper Trap whilst trying to escape attacker
 - Crafting recipe to change planks into other planks
     - Only works with regular blank blocks with any type.
     - just any Plank and the plank type's sapling (for example: oak plank into birch plank would need a oak plank and birch sapling).

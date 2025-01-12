@@ -1,3 +1,7 @@
+# v0.0.3 - 1/12/2025
+## Removed
+- Unused Textures
+
 # v0.0.2 (The Golden Charge Drop) - 1/11/2025
 ## Fixed
 - v0.0.1 changelog

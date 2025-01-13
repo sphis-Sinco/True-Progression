@@ -1,3 +1,11 @@
+# v0.1 (Late Game Update) - 1/1?/2025
+## Changed
+- Diamond Ore Block Drops
+    - They drop Diamond Chunks
+## Added
+- Diamond Chunks
+    - Used to get Damond Bits
+
 # v0.0.5 - 1/13/2025
 ## Fixed
 - v0.0.4 changelog year

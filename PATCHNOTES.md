@@ -1,6 +1,8 @@
 # v0.0.5 - 1/13/2025
 ## Fixed
 - v0.0.4 changelog year
+## Changed
+- Copper Trap Recipe (doesn't require copper blocks anymore)
 
 # v0.0.4 - 1/12/2025
 ## Added

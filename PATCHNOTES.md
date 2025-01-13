@@ -1,10 +1,13 @@
 # v0.1 (Late Game Update) - 1/1?/2025
+Drago_Cuven is now apart of the team
 ## Changed
 - Diamond Ore Block Drops
     - They drop Diamond Chunks
 ## Added
 - Diamond Chunks
     - Used to get Damond Bits
+- Diamond Upgrade
+    - Crafted with 6 Iron Ingots, 2 Iron Nuggets and 1 Diamond
 
 # v0.0.5 - 1/13/2025
 ## Fixed

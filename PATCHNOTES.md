@@ -1,4 +1,8 @@
-# v0.0.4 - 1/12/2024
+# v0.0.5 - 1/13/2025
+## Fixed
+- v0.0.4 changelog year
+
+# v0.0.4 - 1/12/2025
 ## Added
 - Copper Trap Block PR_BR Localization
 - Copper Trap Death Messages PR_BR Localization

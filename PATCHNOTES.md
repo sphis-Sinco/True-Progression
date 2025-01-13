@@ -1,6 +1,7 @@
 # v0.0.5 - 1/13/2025
 ## Fixed
 - v0.0.4 changelog year
+- Organization in MCreator
 ## Changed
 - Copper Trap Recipe (doesn't require copper blocks anymore)
 

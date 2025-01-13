@@ -4,6 +4,8 @@
 - Organization in MCreator
 ## Changed
 - Copper Trap Recipe (doesn't require copper blocks anymore)
+- Dirt Clump Texture
+- Mud Clump Texture
 
 # v0.0.4 - 1/12/2025
 ## Added

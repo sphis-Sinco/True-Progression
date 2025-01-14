@@ -3,6 +3,7 @@ Drago_Cuven is now apart of the team
 ## Changed
 - Diamond Ore Block Drops
     - They drop Diamond Bits
+- Copper Trap Model and Texture
 ## Added
 - Diamond Bits
     - Used to get Diamond Chunks via Crafting

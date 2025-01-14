@@ -11,8 +11,10 @@ Drago_Cuven is now apart of the team
 - Diamond Upgrade
     - Crafted with 6 Iron Ingots, 2 Iron Nuggets and 1 Diamond
 - Diamond Armor Smithing Recipe (Iron to Diamond)
+- Diamond Tools Smithing Recipe (Iron to Diamond)
 ## Removed
 - Diamond Armor Crafting Recipe
+- Diamond Tools Crafting Recipe
 
 # v0.0.5 - 1/13/2025
 ## Fixed

@@ -1,11 +1,14 @@
 SEP=,
 Translation key (DON'T EDIT),TRANSLATION IN pt_br - EDIT THIS COLUMN,English text (DON'T EDIT - reference only)
 item.true_progression.raw_iron_bits,Cacos de Ferro Bruto,Raw Iron Bits
+item.true_progression.diamond_upgrade,Melhoria de Diamante,Diamond Upgrade
 item.true_progression.powered_golden_shovel,Pá de Ouro Elétrica,Powered Golden Shovel
 death.attack.copper_trap_damage,%1$s foi pego em uma Armadilha de Cobre,%1$s was Caught in a Copper Trap
+item.true_progression.diamond_chunk,Pedaço de Diamante,Diamond Chunk
 item.true_progression.powered_golden_axe,Machado de Ouro Elétrico,Powered Golden Axe
 item.true_progression.thick_stick,Graveto Grosso,Thick Stick
 item.true_progression.powered_golden_pickaxe,Picareta de Ouro Elétrica,Powered Golden Pickaxe
+item.true_progression.diamond_bits,Cacos de Diamante,Diamond Bits
 item.true_progression.dirt_clump,Pedaço de Terra,Dirt Clump
 death.attack.copper_trap_damage.player,%1$s foi pego em uma Armadilha de Cobre enquanto tentava fugir de %2$s,%1$s was Caught in a Copper Trap whilst trying to escape %2$s
 advancements.in_the_thick_of_it.descr,Consiga um Graveto Grosso,get a Thick Stick

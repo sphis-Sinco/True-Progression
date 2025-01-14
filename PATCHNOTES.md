@@ -5,9 +5,9 @@ Drago_Cuven is now apart of the team
     - They drop Diamond Bits
 ## Added
 - Diamond Bits
-    - Used to get Diamond Chunks
+    - Used to get Diamond Chunks via Crafting
 - Diamond Chunks
-    - Used to get Diamonds
+    - Used to get Diamonds via Crafting
 - Diamond Upgrade
     - Crafted with 6 Iron Ingots, 2 Iron Nuggets and 1 Diamond
 - Diamond Armor Smithing Recipe (Iron to Diamond)

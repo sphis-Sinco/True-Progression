@@ -4,6 +4,7 @@ Drago_Cuven is now apart of the team
 - Diamond Ore Block Drops
     - They drop Diamond Bits
 - Copper Trap Model and Texture
+- Copper Trap Recipe (doesn't require copper blocks anymore)
 ## Added
 - Diamond Bits
     - Used to get Diamond Chunks via Crafting
@@ -22,7 +23,6 @@ Drago_Cuven is now apart of the team
 - v0.0.4 changelog year
 - Organization in MCreator
 ## Changed
-- Copper Trap Recipe (doesn't require copper blocks anymore)
 - Dirt Clump Texture
 - Mud Clump Texture
 - Copper Trap order in Creative Tabs

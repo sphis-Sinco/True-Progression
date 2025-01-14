@@ -2,11 +2,11 @@
 Drago_Cuven is now apart of the team
 ## Changed
 - Diamond Ore Block Drops
-    - They drop Diamond Chunks
+    - They drop Diamond Bits
 ## Added
-- Diamond Chunks
-    - Used to get Diamond Bits
 - Diamond Bits
+    - Used to get Diamond Chunks
+- Diamond Chunks
     - Used to get Diamonds
 - Diamond Upgrade
     - Crafted with 6 Iron Ingots, 2 Iron Nuggets and 1 Diamond

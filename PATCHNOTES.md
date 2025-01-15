@@ -8,6 +8,7 @@ Drago_Cuven is now apart of the team
 - Copper Trap Recipe (doesn't require copper blocks anymore)
 - Copper Trap Blast resistance (its 6 now)
 - Copper Trap Hardness (its 3 now)
+- Copper Trap Recipe Book Category is now `MISC`
 ## Added
 - Diamond Bits
     - Used to get Diamond Chunks via Crafting
@@ -17,6 +18,12 @@ Drago_Cuven is now apart of the team
     - Crafted with 6 Iron Ingots, 2 Iron Nuggets and 1 Diamond
 - Diamond Armor Smithing Recipe (Iron to Diamond)
 - Diamond Tools Smithing Recipe (Iron to Diamond)
+- Iron Trap
+    - Hurts any entity on it 3 times as a Copper Trap
+    - Custom Death Messages
+        - player was Caught in a Iron Trap
+        - player was slain by attacker using item whilst caught in a Iron Trap
+        - player was Caught in a Iron Trap whilst trying to escape attacker
 ## Removed
 - Diamond Armor Crafting Recipe
 - Diamond Tools Crafting Recipe

@@ -1,4 +1,4 @@
-# v0.1 (Late Game Update) - 1/1?/2025
+# v0.1 (The Late Game Update) - 1/1?/2025
 Drago_Cuven is now apart of the team
 ## Changed
 - Diamond Ore Block Drops

@@ -1,10 +1,14 @@
 SEP=,
 Translation key (DON'T EDIT),TRANSLATION IN pt_br - EDIT THIS COLUMN,English text (DON'T EDIT - reference only)
+block.true_progression.iron_trap,Armadilha de Ferro,Iron Trap
+death.attack.iron_trap_damage.player,%1$s foi pego em uma Armadilha de Ferro enquanto tentava fugir de %2$s,%1$s was Caught in a Iron Trap whilst trying to escape %2$s
 item.true_progression.raw_iron_bits,Cacos de Ferro Bruto,Raw Iron Bits
 item.true_progression.diamond_upgrade,Melhoria de Diamante,Diamond Upgrade
 item.true_progression.powered_golden_shovel,Pá de Ouro Elétrica,Powered Golden Shovel
 death.attack.copper_trap_damage,%1$s foi pego em uma Armadilha de Cobre,%1$s was Caught in a Copper Trap
+death.attack.iron_trap_damage.item,%1$s foi morto por %2$s usando %3$s enquanto estava preso em uma Armadilha de Ferro,%1$s was slain by %2$s using %3$s whilst caught in a Iron Trap
 item.true_progression.diamond_chunk,Pedaço de Diamante,Diamond Chunk
+death.attack.iron_trap_damage,%1$s foi pego em uma Armadilha de Ferro,%1$s was Caught in a Iron Trap
 item.true_progression.powered_golden_axe,Machado de Ouro Elétrico,Powered Golden Axe
 item.true_progression.thick_stick,Graveto Grosso,Thick Stick
 item.true_progression.powered_golden_pickaxe,Picareta de Ouro Elétrica,Powered Golden Pickaxe

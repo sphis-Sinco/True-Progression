@@ -3,6 +3,7 @@
 - Iron Trap now uses the correct damage type
 - Iron Trap now uses the correct Transparency type
 - Iron Trap now damages you
+    - Changed Iron Trap Hitbox
 
 # v0.1 (The Late Game Update) - 1/15/2025
 Drago_Cuven is now apart of the team

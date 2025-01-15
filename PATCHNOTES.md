@@ -5,6 +5,8 @@ Drago_Cuven is now apart of the team
     - They drop Diamond Bits
 - Copper Trap Model and Texture
 - Copper Trap Recipe (doesn't require copper blocks anymore)
+- Copper Trap Blast resistance (its 6 now)
+- Copper Trap Hardness (its 3 now)
 ## Added
 - Diamond Bits
     - Used to get Diamond Chunks via Crafting

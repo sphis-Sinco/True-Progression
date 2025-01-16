@@ -1,13 +1,14 @@
-# v0.1.1 - 1/15/2025
-## Fixed
+# True Progression: Neoforged Model
+## v0.1.1 - 1/15/2025
+### Fixed
 - Iron Trap now uses the correct damage type
 - Iron Trap now uses the correct Transparency type
 - Iron Trap now damages you
     - Changed Iron Trap Hitbox
 
-# v0.1 (The Late Game Update) - 1/15/2025
+## v0.1 (The Late Game Update) - 1/15/2025
 Drago_Cuven is now apart of the team
-## Changed
+### Changed
 - Diamond Ore Block Drops
     - They drop Diamond Bits
 - Copper Trap Model and Texture
@@ -16,7 +17,7 @@ Drago_Cuven is now apart of the team
 - Copper Trap Blast resistance (its 6 now)
 - Copper Trap Hardness (its 3 now)
 - Copper Trap Recipe Book Category is now `MISC`
-## Added
+### Added
 - Diamond Bits
     - Used to get Diamond Chunks via Crafting
 - Diamond Chunks
@@ -31,30 +32,30 @@ Drago_Cuven is now apart of the team
         - player was Caught in a Iron Trap
         - player was slain by attacker using item whilst caught in a Iron Trap
         - player was Caught in a Iron Trap whilst trying to escape attacker
-## Removed
+### Removed
 - Diamond Armor Crafting Recipe
 - Diamond Tools Crafting Recipe
 
-# v0.0.5 - 1/13/2025
-## Fixed
+## v0.0.5 - 1/13/2025
+### Fixed
 - v0.0.4 changelog year
 - Organization in MCreator
-## Changed
+### Changed
 - Dirt Clump Texture
 - Mud Clump Texture
 - Copper Trap order in Creative Tabs
 
-# v0.0.4 - 1/12/2025
-## Added
+## v0.0.4 - 1/12/2025
+### Added
 - Copper Trap Block PR_BR Localization
 - Copper Trap Death Messages PR_BR Localization
-## Changed
+### Changed
 - `death.attack.copper_trap_damage.item` to "player was slain by attacker using item whilst caught in a Copper Trap" (Localization follows this)
 
-# v0.0.3 - 1/12/2025
-## Removed
+## v0.0.3 - 1/12/2025
+### Removed
 - Unused Textures
-## Added
+### Added
 - Copper Trap
     - Hurts any entity on it
     - Custom Death Messages
@@ -65,11 +66,11 @@ Drago_Cuven is now apart of the team
     - Only works with regular blank blocks with any type.
     - just any Plank and the plank type's sapling (for example: oak plank into birch plank would need a oak plank and birch sapling).
 
-# v0.0.2 (The Golden Charge Drop) - 1/11/2025
-## Fixed
+## v0.0.2 (The Golden Charge Drop) - 1/11/2025
+### Fixed
 - v0.0.1 changelog
 - Patchnotes filename
-## Changed
+### Changed
 - Iron Ore Iron bits Drop Amount (depending on difficulty)
     - Hard Difficulty: 1 per block
     - Normal Difficulty: 2 per block
@@ -79,7 +80,7 @@ Drago_Cuven is now apart of the team
 - Golden Sword Recipe
 - Golden Pickaxe Recipe
 - Golden Axe Recipe
-## Added
+### Added
 - PR_BR (Brazillian Portuguese) Localization
 - Powered Golden Tool Tier
     - Golden Tools with Higher durability (128) and Attack speed (2)
@@ -89,8 +90,8 @@ Drago_Cuven is now apart of the team
     - Powered Golden Hoe Recipe and Item
     - Powered Golden Shovel Recipe and Item
 
-# v0.0.1 - 1/11/2025
-## Added
+## v0.0.1 - 1/11/2025
+### Added
 - Thick Stick
     - Thick Stick Recipe
 - Mud Clump
@@ -106,7 +107,7 @@ Drago_Cuven is now apart of the team
     - Smelting Recipe from Raw Iron Bits into Iron Bits
 - Iron Bits
     - Iron Recipe using Iron Bits
-## Changed
+### Changed
 - Stone Sword Recipe
 - Stone Pickaxe Recipe
 - Stone Axe Recipe
